@@ -1,26 +1,19 @@
 # Byte-compiled / cache
 __pycache__/
 *.py[cod]
-*.so
 
-# Logs
+# Logs and DB
 *.log
-
-# Env / Secrets
-.env
-*.env
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# IDE/Editor settings
-.vscode/
-.idea/
-
-# SQLite or other project files
 *.sqlite
 *.db
 
-# Jupyter
-.ipynb_checkpoints/
+# Env / Secrets
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
